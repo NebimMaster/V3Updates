@@ -1,4 +1,3 @@
 {
-  "1": "select top(10) * from cdCurrAcc",
-  "2": "select top(10) * from cdCurrAccDesc"
+  "1": "UPDATE V3_TalipsanAS.dbo.cdCurrAcc SET IdentityNum = '11111111111' WHERE CurrAccCode = '250000'"
 }
