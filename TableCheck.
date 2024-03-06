@@ -15,5 +15,20 @@
   "14": "getTsoftOrder",
   "15": "getBlockedProducts",
   "16": "getWidgetReportsPazarama",
-  "17": "getWidgetReportsN11"
+  "17": "WgetCustomerAddresses",
+  "18": "WgetCustomerBalance",
+  "19": "WgetCustomerExtract",
+  "20": "WgetCustomerLastStatus",
+  "21": "WgetCustomerOrderDetail",
+  "22": "WgetCustomerOrders",
+  "23": "WgetCustomers",
+  "24": "WgetCustomerServiceProducts",
+  "25": "WgetPrices",
+  "26": "WgetProductLanguages",
+  "27": "WgetProducts",
+  "28": "WgetStocks",
+  "29": "WgetTranslateProducts",
+  "30": "WnewCustomerAddreses",
+  "31": "WnewServiceProduct",
+  "32": "WsetProductDescription"
 }
