@@ -1,4 +1,17 @@
 {
-  "1": "getWidgetReportsOperation",
-  "2": "getWidgetReportsOperation"
+  "1": "getWidgetReports",
+  "2": "getWidgetReportsOperation",
+  "3": "getWidgetReportsDgnOnline",
+  "4": "getWidgetReportsFlo",
+  "5": "getWidgetReportsHepsiburada",
+  "6": "getWidgetReportsTrendyol",
+  "7": "getProducts",
+  "8": "getProductInfos",
+  "9": "getStoreStocks",
+  "10": "getStocks",
+  "11": "getProductImages",
+  "12": "getProductAttributes",
+  "13": "getPrices",
+  "14": "getTsoftOrder",
+  "15": "getBlockedProducts"
 }
