@@ -30,5 +30,13 @@
   "29": "WgetTranslateProducts",
   "30": "WnewCustomerAddreses",
   "31": "WnewServiceProduct",
-  "32": "WsetProductDescription"
+  "32": "WsetProductDescription",
+  "33": "BarcodePrint",
+  "34": "primHesapla",
+  "35": "TechnicalServiceStatus",
+  "36": "ASP_Barkod_yazdirma_varyant",
+  "37": "ASP_Barkod_yazdirma",
+  "38": "ASP_Carpan_Hesapla",
+  "39": "ASP_HizliSimule2024",
+  "40": "ASP_Magaza_Hedef_Satis_AnalizleriYeniSistem2024"
 }
